@@ -1,2 +1,5 @@
 # excercise-repo
-Repo made for exercise in GitBash directory
+This project will contain...
+Repository made for exercise and testing
+Web changes
+
